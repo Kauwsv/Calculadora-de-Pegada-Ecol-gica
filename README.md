@@ -14,7 +14,7 @@ A calculadora de pegada ecológica é uma ferramenta interativa que permite aos 
 
 **Site da calculadora oficial:**  [_Footprint_](https://www.footprintcalculator.org/home)
 
-[Calculadora-de-Pegada-Ecologica](assets/img/logo_ecocalculator.png)
+![Calculadora-de-Pegada-Ecologica](assets/img/logo_ecocalculator.png)
 
 # Como usar
 1. **Acesse o arquivo:** Abra o arquivo index.html em qualquer navegador.
