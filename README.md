@@ -24,3 +24,5 @@ A calculadora de pegada ecológica é uma ferramenta interativa que permite aos 
 - **JavaScript:** Interatividade e cálculos.
 # Agradecimentos
 Agradecemos a todos os professores que participaram da capacitação e à UTFPR Apucarana pelo apoio.
+
+![Calculadora-de-Pegada-Ecologica](assets/img/logo_ecocalculator.png)
