@@ -9,7 +9,9 @@ Este repositório contém os materiais e o projeto final da capacitação de pro
 - **Materiais didáticos:** Apresentações, exercícios e exemplos de código utilizados durante a capacitação.
 - **Projeto final:** Calculadora de pegada ecológica, desenvolvida com HTML, CSS e JavaScript.
 - **Recursos:** Imagens e logos utilizadas no projeto final.
+
 ![Calculadora-de-Pegada-Ecologica](assets/img/logo_ecocalculator.png)
+
 # Calculadora de Pegada Ecológica
 A calculadora de pegada ecológica é uma ferramenta interativa que permite aos usuários estimar seu impacto ambiental. Ela foi inspirada na calculadora oficial do Footprint e utiliza uma forma mais simplificada de cálculo.
 
