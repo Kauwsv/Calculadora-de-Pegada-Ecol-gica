@@ -10,7 +10,7 @@ Este repositório contém o projeto final da capacitação de professores da red
 # Calculadora de Pegada Ecológica
 A calculadora de pegada ecológica é uma ferramenta interativa que permite aos usuários estimar seu impacto ambiental. Ela foi inspirada na calculadora oficial do Footprint e utiliza uma forma mais simplificada de cálculo. Ao final, a calculadora retornará uma quantidade de planetas. Esse número indica quantos planetas seriam necessários para sustentar a vida na Terra se todas as pessoas tivessem o mesmo estilo de vida que você.
 
-![Calculadora-de-Pegada-Ecologica](C:\Users\Windows 10\Downloads\calculadora_resultado.png)
+![Calculadora-de-Pegada-Ecologica]("C:\Users\Windows 10\Downloads\calculadora_resultado.png")
 
 **Site da calculadora oficial:**  [_Footprint_](https://www.footprintcalculator.org/home)
 
